@@ -1,0 +1,83 @@
+{
+    "image": "https://ipfs.io/ipfs/QmNxMSZTrgUQb7om2y9afKPSxSH4Ths2j56J8ek62dPcyR/671.png",
+    "tokenId": 671,
+    "name": "KOI # 671",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Shikkoku"
+        },
+        {
+            "trait_type": "Block01",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Block02",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Block03",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Block04",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Block05",
+            "value": "White"
+        },
+        {
+            "trait_type": "Block06",
+            "value": "Golden"
+        },
+        {
+            "trait_type": "Block07",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Block08",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Block09",
+            "value": "White"
+        },
+        {
+            "trait_type": "Block10",
+            "value": "White"
+        },
+        {
+            "trait_type": "Block11",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Block12",
+            "value": "Golden"
+        },
+        {
+            "trait_type": "Block13",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Block14",
+            "value": "Red"
+        },
+        {
+            "trait_type": "BackLight",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Left_fin",
+            "value": "White"
+        },
+        {
+            "trait_type": "Right_fin",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Tail_fin",
+            "value": "Red"
+        }
+    ]
+}

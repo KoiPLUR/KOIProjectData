@@ -1,0 +1,83 @@
+{
+    "image": "https://ipfs.io/ipfs/QmNxMSZTrgUQb7om2y9afKPSxSH4Ths2j56J8ek62dPcyR/21671.png",
+    "tokenId": 21671,
+    "name": "KOI # 21671",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Usunezu"
+        },
+        {
+            "trait_type": "Block01",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Block02",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Block03",
+            "value": "Golden"
+        },
+        {
+            "trait_type": "Block04",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Block05",
+            "value": "White"
+        },
+        {
+            "trait_type": "Block06",
+            "value": "Golden"
+        },
+        {
+            "trait_type": "Block07",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Block08",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Block09",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Block10",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Block11",
+            "value": "White"
+        },
+        {
+            "trait_type": "Block12",
+            "value": "Golden"
+        },
+        {
+            "trait_type": "Block13",
+            "value": "White"
+        },
+        {
+            "trait_type": "Block14",
+            "value": "White"
+        },
+        {
+            "trait_type": "BackLight",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Left_fin",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Right_fin",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Tail_fin",
+            "value": "Red"
+        }
+    ]
+}

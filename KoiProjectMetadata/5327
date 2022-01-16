@@ -1,0 +1,83 @@
+{
+    "image": "https://ipfs.io/ipfs/QmNxMSZTrgUQb7om2y9afKPSxSH4Ths2j56J8ek62dPcyR/5327.png",
+    "tokenId": 5327,
+    "name": "KOI # 5327",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Geppaku"
+        },
+        {
+            "trait_type": "Block01",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Block02",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Block03",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Block04",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Block05",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Block06",
+            "value": "White"
+        },
+        {
+            "trait_type": "Block07",
+            "value": "Golden"
+        },
+        {
+            "trait_type": "Block08",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Block09",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Block10",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Block11",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Block12",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Block13",
+            "value": "White"
+        },
+        {
+            "trait_type": "Block14",
+            "value": "Red"
+        },
+        {
+            "trait_type": "BackLight",
+            "value": "White"
+        },
+        {
+            "trait_type": "Left_fin",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Right_fin",
+            "value": "White"
+        },
+        {
+            "trait_type": "Tail_fin",
+            "value": "Red"
+        }
+    ]
+}
